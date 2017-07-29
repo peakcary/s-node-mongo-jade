@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/peakcary/s-node-mongo-jade/issues"
   },
-  "homepage": "https://github.com/peakcary/s-node-mongo-jade#readme"
+  "homepage": "https://github.com/peakcary/s-node-mongo-jade#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.4"
+  }
 }
