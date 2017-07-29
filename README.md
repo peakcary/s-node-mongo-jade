@@ -14,3 +14,15 @@ npm install express jade moment mongoose --save
 node app.js
 ```
 
+# Project
+
+├── README.md
+├── app.js
+├── package-lock.json
+├── package.json
+└── views
+    ├── admin.jade
+    ├── detail.jade
+    ├── index.jade
+    └── list.jade
+
