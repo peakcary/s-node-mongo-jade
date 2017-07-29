@@ -16,6 +16,7 @@ node app.js
 
 # Project
 
+```
 ├── README.md
 ├── app.js
 ├── package-lock.json
@@ -25,4 +26,5 @@ node app.js
     ├── detail.jade
     ├── index.jade
     └── list.jade
+```
 
