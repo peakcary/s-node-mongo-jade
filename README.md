@@ -8,3 +8,9 @@ init jade
 npm install express jade moment mongoose --save
 ```
 
+# Start 
+
+```
+node app.js
+```
+
